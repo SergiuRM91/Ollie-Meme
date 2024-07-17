@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+#picture{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-size: 3rem;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+p{
+    font-family: "Kalnia Glaze", serif;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: normal;      
+}
